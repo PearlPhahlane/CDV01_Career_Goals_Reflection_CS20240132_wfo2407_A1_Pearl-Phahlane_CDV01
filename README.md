@@ -3,7 +3,7 @@
 - **Name:** Pearl Phahlane
 - **Date:** 22/07/2024
 - **Current Role/Position:** CodeSpace Student
-- **Field of Interest:** 
+- **Field of Interest:** Software Development/ Front-end Development
 
 ### Part 1: Self-Assessment Reflection
 
