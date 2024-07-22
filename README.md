@@ -67,8 +67,8 @@
      - **Software Testing**: This role upholds values of discipline, attention to detail, and quality assurance. It aligns with my emphasis on honesty and         thoroughness in ensuring that products meet high standards.
 
    - **Gaps and Areas for Further Exploration**:
-   - **Software Development**: I need to deepen my knowledge of specific programming languages and development frameworks. Gaining more hands-on                experience through projects or internships will be beneficial.
-   - **Software Testing**: I should explore various testing methodologies and tools further. Gaining certification or practical experience in quality           assurance processes can enhance my expertise in this area.
+     - **Software Development**: I need to deepen my knowledge of specific programming languages and development frameworks. Gaining more hands-on                experience through projects or internships will be beneficial.
+     - **Software Testing**: I should explore various testing methodologies and tools further. Gaining certification or practical experience in quality           assurance processes can enhance my expertise in this area.
 
 
 ### Part 3: SMART Career Goals
@@ -80,7 +80,7 @@
      - **Rationale**: Certifications will validate my skills and knowledge, making me more competitive in the job market and aligning with my interests in          software development and testing.
      - **Time-bound**: Achieve certification within the next 12-18 months.
 
-   - **Build and Showcase a Portfolio**:
+- **Build and Showcase a Portfolio**:
      - **Goal**: Develop a portfolio of projects demonstrating my skills in software development and testing.
      - **Rationale**: A strong portfolio will showcase my abilities to potential employers and help me gain practical experience.
      - **Time-bound**: Complete and launch the portfolio within the next 6-12 months.
