@@ -27,7 +27,7 @@
   - **Overcoming Perfectionism**: Work on relaxing and going with the flow, setting realistic goals, and avoiding getting paralyzed by perfectionist             tendencies.
   - **Networking**: Improve networking skills to connect with industry professionals, seek mentorship, and explore job opportunities.
 
-3. **Interests and Values**:
+2. **Interests and Values**:
     
    - **Key Interests Related to My Career**:
      - **Continuous Learning**: I have a deep passion for learning new things, which aligns well with a career in software development. I find                      satisfaction in expanding my knowledge and skills, whether through formal education, hands-on projects, or self-directed study.
