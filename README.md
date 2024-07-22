@@ -29,8 +29,6 @@
 
 3. **Interests and Values**:
     
-**Interests and Values**:
-    
    - **Key Interests Related to My Career**:
      - **Continuous Learning**: I have a deep passion for learning new things, which aligns well with a career in software development. I find                      satisfaction in expanding my knowledge and skills, whether through formal education, hands-on projects, or self-directed study.
      - **Creativity**: Creativity is important to me as it allows me to approach problems and projects with innovative solutions. My experience creating             engaging learning materials and solving puzzles reflects my enjoyment of thinking creatively and finding unique solutions.
