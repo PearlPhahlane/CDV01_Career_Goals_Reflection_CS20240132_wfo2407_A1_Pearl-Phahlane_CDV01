@@ -85,7 +85,7 @@
      - **Rationale**: A strong portfolio will showcase my abilities to potential employers and help me gain practical experience.
      - **Time-bound**: Complete and launch the portfolio within the next 6-12 months.
 
-   - **Gain Practical Experience**:
+- **Gain Practical Experience**:
      - **Goal**: Secure an internship or entry-level position in software development or testing to gain hands-on experience.
      - **Rationale**: Practical experience is crucial for applying theoretical knowledge and enhancing employability.
      - **Time-bound**: Find and start the position within the next 6 months.
@@ -93,12 +93,12 @@
 
 2. **Long-term Goals** (3-5 years and beyond):
 
- - **Advance to a Mid-Level Software Developer or Tester**:
+- **Advance to a Mid-Level Software Developer or Tester**:
      - **Goal**: Progress to a mid-level role with increased responsibilities and specialization in software development or testing.
      - **Rationale**: This goal aligns with my interests in continuous learning and problem-solving and will allow me to build on my initial experiences.
      - **Alignment**: The role will leverage my skills in creativity, technology, and problem-solving while fulfilling my career aspirations.
 
-   - **Contribute to Innovative Projects**:
+- **Contribute to Innovative Projects**:
      - **Goal**: Work on projects that involve cutting-edge technology or innovative solutions.
      - **Rationale**: Contributing to innovative projects aligns with my passion for technology and creativity and allows me to make a significant impact.
      - **Alignment**: This goal aligns with my values of creativity, development, and continuous learning.
